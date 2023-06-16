@@ -4,4 +4,4 @@
 <a href="https://app.daily.dev/giftsegunade"><img src="https://user-images.githubusercontent.com/44513540/219904307-2a22fb21-fec9-468e-8a48-1f7d5f447229.jpg" width="400" alt="Pioskenny Image"/></a>
 
 
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=piouskenny&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+
